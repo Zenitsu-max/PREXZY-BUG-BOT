@@ -2,23 +2,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22502331988"
-global.ownername = "𝐋𝚯𝐔𝐊𝐒𝚯𝚴-𝐔𝚭𝐔𝚳𝚫𝐊𝚰"
+global.ownernomer = "2250711495540"
+global.ownername = "𝙍𝐘𝐎𝐔𝐌𝐄𝐍🌀𝐆𝐎𝐉𝐎"
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '22502331988'  //creator number
-global.ownername = '𝐋𝚯𝐔𝐊𝐒𝚯𝚴-𝐔𝚭𝐔𝚳𝚫𝐊𝚰' //owner name
-global.botname = 'NARUTO-MD' //name of the bot
+global.ownernumber = 2250711495540'  //creator number
+global.ownername = '𝙍𝐘𝐎𝐔𝐌𝐄𝐍🌀𝐆𝐎𝐉𝐎' //owner name
+global.botname = 'SATORU-MD' //name of the bot
 
 //sticker details
-global.packname = '𝐋𝚯𝐔𝐊𝐒𝚯𝚴-𝐔𝚭𝐔𝚳𝚫𝐊𝚰'
-global.author = '𝐋𝚯𝐔𝐊𝐒𝚯𝚴-𝐔𝚭𝐔𝚳𝚫𝐊𝚰'
-
+global.packname = '𝙍𝐘𝐎𝐔𝐌𝐄𝐍🌀𝐆𝐎𝐉𝐎'
+global.author = '𝙍𝐘𝐎𝐔𝐌𝐄𝐍🌀𝐆𝐎𝐉𝐎' 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "𝐋𝚯𝐔𝐊𝐒𝚯𝚴-𝐔𝚭𝐔𝚳𝚫𝐊𝚰."
+global.wm = "𝙍𝐘𝐎𝐔𝐌𝐄𝐍🌀𝐆𝐎𝐉𝐎."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
